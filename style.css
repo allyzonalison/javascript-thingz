@@ -1,0 +1,15 @@
+.circle {
+    width: 800px; /* Adjust the size of the circle */
+    height: 800px;
+    border-radius: 50%; /* Create a circle shape */
+    background-color: orange; /* Circle background color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .text {
+    font-size: 30px;
+    font-weight: 800;
+    color: black; /* Text color */
+  }
